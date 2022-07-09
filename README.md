@@ -1,1 +1,1 @@
-This is "printf" C Programming and it is a team work with Samuel Abaidoo
+This is "printf" C Programming and it is a team work between Samuel Abaidoo and I
